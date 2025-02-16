@@ -7,8 +7,8 @@ A React-based expense tracking application with interactive visualizations and r
 ## ScreenShots
 
 
-![pic1] (./src/images/mg_app_up.png)
-![pic1] (./src/images/mg_app_down.png)
+![pic1] (./src/images/img_app_up.png)
+![pic2] (./src/images/img_app_down.png)
 
 
 ## Features
