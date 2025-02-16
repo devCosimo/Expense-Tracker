@@ -4,6 +4,13 @@
 
 A React-based expense tracking application with interactive visualizations and real-time updates. Built with React, Recharts, and Tailwind CSS.
 
+## ScreenShots
+
+
+![pic1] (./src/images/mg_app_up.png)
+![pic1] (./src/images/mg_app_down.png)
+
+
 ## Features
 
 - 📊 Interactive pie and bar charts for expense visualization
