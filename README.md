@@ -6,10 +6,9 @@ A React-based expense tracking application with interactive visualizations and r
 
 ## ScreenShots
 
+<img src="images/img_app_up.svg" width="400">
 
-![pic1] (./src/images/img_app_up.png)
-![pic2] (./src/images/img_app_down.png)
-
+<img src="images/img_app_down.svg" width="400">
 
 ## Features
 
