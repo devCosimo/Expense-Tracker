@@ -1,4 +1,3 @@
-# Expense Tracker
 
 # Modern Expense Tracker
 
