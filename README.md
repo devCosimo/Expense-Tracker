@@ -2,22 +2,27 @@
 
 # Modern Expense Tracker
 
-A React-based expense tracking application with interactive visualizations and real-time updates. Built with React, Recharts, and Tailwind CSS.
+A React-based expense tracking application with interactive visualizations and real-time updates. 
+
+Built with React, Recharts, and Tailwind CSS.
 
 ## ScreenShots
 
-<img src="images/img_app_up.svg" width="400">
+<div style="display:flex;">
+<img src="src/images/img_app_up.png" style="margin-right:5px" width="400">
+ 
+<img src="src/images/img_app_down.png" width="400">
+</div>
 
-<img src="images/img_app_down.svg" width="400">
 
 ## Features
 
-- 📊 Interactive pie and bar charts for expense visualization
-- 💰 Real-time expense tracking and categorization
-- 🎨 Clean, responsive UI with Tailwind CSS
-- ⚡ Efficient state management
-- 📱 Mobile-friendly design
-- 🔔 Toast notifications for user actions
+- Interactive pie and bar charts for expense visualization
+- Real-time expense tracking and categorization
+- Clean, responsive UI with Tailwind CSS
+- Efficient state management
+- Mobile-friendly design
+- Toast notifications for user actions
 
 ## Installation
 
